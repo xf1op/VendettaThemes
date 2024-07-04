@@ -22,7 +22,7 @@
             "#6C4878"
         ],
         "TEXT_LINK": [
-            "#E69CFF"
+            "#B79CFF"
         ],
         "INTERACTIVE_NORMAL": [
             "#9C3EBB"
@@ -119,9 +119,9 @@
     },
     "spec": 2,
     "background": {
-      "blur": 0,
+      "blur": 0.25,
       "url": "https://raw.githubusercontent.com/xf1op/VendettaThemes/main/AmoledPurplecord/bg.jpg",
-      "alpha": 0.95,
+      "alpha": 0.8,
       "color": "#000000"
   
     }
