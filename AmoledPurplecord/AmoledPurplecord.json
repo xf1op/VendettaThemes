@@ -119,10 +119,10 @@
     },
     "spec": 2,
     "background": {
-      "blur": 1,
+      "blur": 0.3,
       "url": "https://raw.githubusercontent.com/xf1op/VendettaThemes/main/AmoledPurplecord/bg.jpg",
-      "alpha": 0.8,
-      "color": "#000000"
+      "alpha": 0.9,
+      "color": "#282828"
   
     }
 }
