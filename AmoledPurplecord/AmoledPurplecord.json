@@ -121,7 +121,7 @@
     "background": {
       "blur": 0,
       "url": "https://raw.githubusercontent.com/xf1op/VendettaThemes/main/AmoledPurplecord/bg.jpg",
-      "alpha": 0.2,
+      "alpha": 0.95,
       "color": "#000000"
   
     }
