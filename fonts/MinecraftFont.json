@@ -1,0 +1,18 @@
+{
+    "spec": 1,
+    "name": "Minecraft",
+    "previewText": "I am placing blocks and shit cuz im in fuckin' minecraft!",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/xf1op/fonts/raw/main/Minecraft-Bold.otf",
+        "ggsans-Bold": "https://github.com/xf1op/fonts/raw/main/Minecraft-Bold.otf",
+        "ggsans-ExtraBold": "https://github.com/xf1op/fonts/raw/main/Minecraft-Bold.otf",
+        "ggsans-Medium": "https://github.com/xf1op/fonts/raw/main/Minecraft.otf",
+        "ggsans-Normal": "https://github.com/xf1op/fonts/raw/main/Minecraft.otf",
+        "ggsans-Semibold": "https://github.com/xf1op/fonts/raw/main/Minecraft-Bold.otf",
+        "NotoSans-Bold": "https://github.com/xf1op/fonts/raw/main/Minecraft-Bold.otf",
+        "NotoSans-ExtraBold": "https://github.com/xf1op/fonts/raw/main/Minecraft-Bold.otf",
+        "NotoSans-Medium": "https://github.com/xf1op/fonts/raw/main/Minecraft.otf",
+        "NotoSans-Normal": "https://github.com/xf1op/fonts/raw/main/Minecraft.otf",
+        "SourceCodePro-Semibold": "https://github.com/xf1op/fonts/raw/main/Minecraft-Bold.otf"
+    }
+}
