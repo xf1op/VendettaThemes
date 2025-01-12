@@ -22,13 +22,13 @@
             "#4B66C2"
         ],
         "TEXT_LINK": [
-            "#8C90FF"
+            "#00AAFF"
         ],
         "INTERACTIVE_NORMAL": [
             "#3366FF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#8C90FF"
+            "#00AAFF"
         ],
         "INTERACTIVE_MUTED": [
             "#4B66C2"
@@ -113,8 +113,8 @@
         "BRAND_500": "#3366FF",
         "BRAND_560": "#C0C7FF",
         "WHITE_500": "#C0C7FF",
-        "YELLOW_300": "#8C90FF",
-        "GREEN_360": "#8C90FF",
+        "YELLOW_300": "#00AAFF",
+        "GREEN_360": "#00AAFF",
         "RED_400": "#FC0E61"
     },
     "spec": 2,
