@@ -120,7 +120,18 @@
     "spec": 2,
     "background": {
       "url": "https://raw.githubusercontent.com/xf1op/VendettaThemes/main/Themes/fur-bg.jpg",
-      "opacity": 0.5
-  
+      "alpha": 0.5,
+      "opacity": 0.5,
+      "background-opacity": 0.5,
+      "backgroundAlpha": 0.5,
+      "transparency": 0.5,
+      "backgroundTranslucence": 0.5,
+      "backgroundOpacity": 0.5,
+      "background-alpha": 0.5,
+      "backgroundTransparency": 0.5,
+      "opacityLevel": 0.5,
+      "alphaLevel": 0.5,
+      "translucenceLevel": 0.5,
+      "backgroundTransparencyLevel": 0.5
     }
 }
