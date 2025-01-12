@@ -10,28 +10,28 @@
     "semanticColors": {
             
         "HEADER_PRIMARY": [
-            "#7F99CC"
+            "#6C7FB8"
         ],
         "HEADER_SECONDARY": [
-            "#7F99CC"
+            "#6C7FB8"
         ],
         "TEXT_NORMAL": [
             "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#5578FF"
+            "#455EA3"
         ],
         "TEXT_LINK": [
-            "#8AA7CC"
+            "#7891B8"
         ],
         "INTERACTIVE_NORMAL": [
-            "#7F99CC"
+            "#6C7FB8"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#8AA7CC"
+            "#7891B8"
         ],
         "INTERACTIVE_MUTED": [
-            "#5578FF"
+            "#455EA3"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
@@ -80,7 +80,7 @@
             "#A4A4A4"
         ],
         "CHANNELS_DEFAULT": [
-            "#7F99CC"
+            "#6C7FB8"
         ],
         "TEXT_DANGER": [
             "#FC0E61"
@@ -89,7 +89,7 @@
             "#000000"
         ],
         "CHANNEL_ICON": [
-            "#7F99CC"
+            "#6C7FB8"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
@@ -99,30 +99,30 @@
         "PRIMARY_100": "#FFFFFF",
         "PRIMARY_200": "#FFFFFF",
         "PRIMARY_300": "#FFFFFF",
-        "PRIMARY_360": "#7F99CC",
-        "PRIMARY_400": "#7F99CC",
-        "PRIMARY_500": "#7F99CC",
+        "PRIMARY_360": "#6C7FB8",
+        "PRIMARY_400": "#6C7FB8",
+        "PRIMARY_500": "#6C7FB8",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
         "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
 
-        "BRAND_260": "#7F99CC",
-        "BRAND_360": "#7F99CC",
-        "BRAND_500": "#7F99CC",
-        "BRAND_560": "#ACCCFF",
-        "WHITE_500": "#ACCCFF",
-        "YELLOW_300": "#8AA7CC",
-        "GREEN_360": "#8AA7CC",
+        "BRAND_260": "#6C7FB8",
+        "BRAND_360": "#6C7FB8",
+        "BRAND_500": "#6C7FB8",
+        "BRAND_560": "#A5B8D8",
+        "WHITE_500": "#A5B8D8",
+        "YELLOW_300": "#7891B8",
+        "GREEN_360": "#7891B8",
         "RED_400": "#FC0E61"
     },
     "spec": 2,
     "background": {
-      "blur": "0.5",
+      "blur": 0.5,
       "url": "https://raw.githubusercontent.com/xf1op/VendettaThemes/main/Themes/fur-bg.jpg",
-      "alpha": "1",
-      "color": "#0000ff"
+      "alpha": 0.9,
+      "color": "#000000"
   
     }
 }
