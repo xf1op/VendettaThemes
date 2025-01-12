@@ -119,10 +119,10 @@
     },
     "spec": 2,
     "background": {
-      "blur": 0.4,
-      "url": "https://raw.githubusercontent.com/xf1op/VendettaThemes/main/Themes/bg-blue.jpg",
-      "alpha": 0.8,
-      "color": "#000000"
+      "blur": 0.5,
+      "url": "https://raw.githubusercontent.com/xf1op/VendettaThemes/main/Themes/fur-bg.jpg",
+      "alpha": 0.75,
+      "color": "#000080"
   
     }
 }
