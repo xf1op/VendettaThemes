@@ -1,6 +1,6 @@
 {
     "name": "Amoled Blue Theme",
-    "description": "Amoled blue discord with blue saturn background! >w<",
+    "description": "Amoled blue discord with blue saturn! >w<",
     "authors": [
         {
             "name": "@xf1op",
@@ -10,28 +10,28 @@
     "semanticColors": {
             
         "HEADER_PRIMARY": [
-            "#3e67bb"
+            "#1F51FF"
         ],
         "HEADER_SECONDARY": [
-            "#3e67bb"
+            "#1F51FF"
         ],
         "TEXT_NORMAL": [
-            "#FFFFFF"
+            "#FAEBFF"
         ],
         "TEXT_MUTED": [
-            "#1f4f78"
+            "#3651A2"
         ],
         "TEXT_LINK": [
-            "#44a3ff"
+            "#7C90FF"
         ],
         "INTERACTIVE_NORMAL": [
-            "#3e67bb"
+            "#1F51FF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#DF7FFF"
+            "#7C90FF"
         ],
         "INTERACTIVE_MUTED": [
-            "#1f4f78"
+            "#3651A2"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
@@ -40,13 +40,13 @@
            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#053064"
+            "#120C13"
         ],
         "BACKGROUND_TERTIARY": [
             "#000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#06264d"
+            "#1F1521"
         ],
         "BACKGROUND_FLOATING": [
             "#000000"
@@ -62,16 +62,16 @@
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
-            "#06264d"
+            "#1F1521"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#06264d"
+            "#1F1521"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
             "#1B0122"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#06264d"
+            "#1F1521"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#000000"
@@ -80,7 +80,7 @@
             "#A4A4A4"
         ],
         "CHANNELS_DEFAULT": [
-            "#7194b7"
+            "#1F51FF"
         ],
         "TEXT_DANGER": [
             "#FC0E61"
@@ -89,7 +89,7 @@
             "#000000"
         ],
         "CHANNEL_ICON": [
-            "#3e67bb"
+            "#1F51FF"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
@@ -99,27 +99,27 @@
         "PRIMARY_100": "#FFFFFF",
         "PRIMARY_200": "#FFFFFF",
         "PRIMARY_300": "#FFFFFF",
-        "PRIMARY_360": "#7194b7",
-        "PRIMARY_400": "#7194b7",
-        "PRIMARY_500": "#7194b7",
+        "PRIMARY_360": "#1F51FF",
+        "PRIMARY_400": "#1F51FF",
+        "PRIMARY_500": "#1F51FF",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
         "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
 
-        "BRAND_260": "#0080ff",
-        "BRAND_360": "#0080ff",
-        "BRAND_500": "#0080ff",
-        "BRAND_560": "#c4e2ff",
-        "WHITE_500": "#FFFFFF",
-        "YELLOW_300": "#FFFF00",
-        "GREEN_360": "#00FF00",
-        "RED_400": "#FF0000"
+        "BRAND_260": "#1F51FF",
+        "BRAND_360": "#1F51FF",
+        "BRAND_500": "#1F51FF",
+        "BRAND_560": "#B5C7FF",
+        "WHITE_500": "#B5C7FF",
+        "YELLOW_300": "#7C90FF",
+        "GREEN_360": "#7C90FF",
+        "RED_400": "#FC0E61"
     },
     "spec": 2,
     "background": {
-      "blur": 0.3,
+      "blur": 0.4,
       "url": "https://raw.githubusercontent.com/xf1op/VendettaThemes/main/Themes/bg-blue.jpg",
       "alpha": 0.8,
       "color": "#000000"
