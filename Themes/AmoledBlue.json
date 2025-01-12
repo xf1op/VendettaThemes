@@ -121,7 +121,7 @@
     "background": {
       "blur": 0.5,
       "url": "https://raw.githubusercontent.com/xf1op/VendettaThemes/main/Themes/fur-bg.jpg",
-      "alpha": 0.75,
+      "alpha": 0.2,
       "color": "#000080"
   
     }
