@@ -120,7 +120,7 @@
     "spec": 2,
     "background": {
       "url": "https://raw.githubusercontent.com/xf1op/VendettaThemes/main/Themes/fur-bg.jpg",
-      "alpha": 0.5
+      "opacity": 0.5
   
     }
 }
