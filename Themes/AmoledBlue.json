@@ -10,28 +10,28 @@
     "semanticColors": {
             
         "HEADER_PRIMARY": [
-            "#5F99FF"
+            "#1F51FF"
         ],
         "HEADER_SECONDARY": [
-            "#5F99FF"
+            "#1F51FF"
         ],
         "TEXT_NORMAL": [
-            "#FFFFFF"
+            "#FAEBFF"
         ],
         "TEXT_MUTED": [
-            "#4771DA"
+            "#3651A2"
         ],
         "TEXT_LINK": [
-            "#94AFFF"
+            "#7C90FF"
         ],
         "INTERACTIVE_NORMAL": [
-            "#5F99FF"
+            "#1F51FF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#94AFFF"
+            "#7C90FF"
         ],
         "INTERACTIVE_MUTED": [
-            "#4771DA"
+            "#3651A2"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
@@ -80,7 +80,7 @@
             "#A4A4A4"
         ],
         "CHANNELS_DEFAULT": [
-            "#5F99FF"
+            "#1F51FF"
         ],
         "TEXT_DANGER": [
             "#FC0E61"
@@ -89,7 +89,7 @@
             "#000000"
         ],
         "CHANNEL_ICON": [
-            "#5F99FF"
+            "#1F51FF"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
@@ -99,22 +99,22 @@
         "PRIMARY_100": "#FFFFFF",
         "PRIMARY_200": "#FFFFFF",
         "PRIMARY_300": "#FFFFFF",
-        "PRIMARY_360": "#5F99FF",
-        "PRIMARY_400": "#5F99FF",
-        "PRIMARY_500": "#5F99FF",
+        "PRIMARY_360": "#1F51FF",
+        "PRIMARY_400": "#1F51FF",
+        "PRIMARY_500": "#1F51FF",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
         "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
 
-        "BRAND_260": "#5F99FF",
-        "BRAND_360": "#5F99FF",
-        "BRAND_500": "#5F99FF",
-        "BRAND_560": "#CBD8FF",
-        "WHITE_500": "#CBD8FF",
-        "YELLOW_300": "#94AFFF",
-        "GREEN_360": "#94AFFF",
+        "BRAND_260": "#1F51FF",
+        "BRAND_360": "#1F51FF",
+        "BRAND_500": "#1F51FF",
+        "BRAND_560": "#B5C7FF",
+        "WHITE_500": "#B5C7FF",
+        "YELLOW_300": "#7C90FF",
+        "GREEN_360": "#7C90FF",
         "RED_400": "#FC0E61"
     },
     "spec": 2,
